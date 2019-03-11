@@ -1,0 +1,6 @@
+owner=426773719705190400
+prefix=/
+game=MuSiC
+stayinchannel=true
+songinstatus=false
+token=NTU0NzM4NDA0Njg0ODU3MzU0.D2hAKA.5eYSIijWTy5mDe1K_jLHaDy6ggA
